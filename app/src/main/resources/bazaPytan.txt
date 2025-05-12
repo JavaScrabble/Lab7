@@ -1,0 +1,3 @@
+Do ktorej warstwy naleza aplikacje internetowe?|A) do zadnej|B) do aplikacji|C) do sesji|D) do prezentacji|A
+Do ktorej warstwy nalezy hub?|A) fizycznej|B) lacza danych|C) internetowej|D) transportowej|A
+Ktore wartswy modelu OSI stanowia jedna warstwe modelu TCP/IP?|A) aplikacji|B) prezentacji|C) sesji|D) transportowa|ABC
